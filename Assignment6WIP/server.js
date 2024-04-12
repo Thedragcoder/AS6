@@ -1,3 +1,17 @@
+/********************************************************************************
+* WEB322 – Assignment 06
+* 
+* I declare that this assignment is my own work in accordance with Seneca's
+* Academic Integrity Policy:
+* 
+* https://www.senecacollege.ca/about/policies/academic-integrity-policy.html
+*
+* Name: Utsav Gautam  Student ID: 15789129 Date: 04-12-2024
+* 
+* Published URL:
+*
+********************************************************************************/
+
 const unCountryData = require("./modules/unCountries");
 const authData = require("./modules/auth-service");
 const express = require('express');
